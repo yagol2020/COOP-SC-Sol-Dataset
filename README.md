@@ -6,11 +6,11 @@ The defect data set of solidness smart contract include CKBD and SC-Sol.
 * CKBD
 * SC-Sol
 ## Labels
-* the number of contract defects
-* the number of each type of vulnerability corresponding to the contract
+* The number of contract defects
+* The number of each type of vulnerability corresponding to the contract
 # Tools
 ## Solidity AST Tool
-solidity-parser-antlr](https://github.com/federicobond/solidity-parser-antlr)
+[solidity-parser-antlr](https://github.com/federicobond/solidity-parser-antlr)
 
 ## Python3.8
 ## Java13
