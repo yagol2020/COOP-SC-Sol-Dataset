@@ -1,5 +1,5 @@
 # SC-Sol-Dataset
-The defect data set of solidness smart contract include COOP and SC-Sol.
+The defect data set of Solidity smart contracts : COOP and SC-Sol.
 ---
 # Dataset
 ## Metrics
